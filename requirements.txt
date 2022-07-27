@@ -3,5 +3,5 @@ matplotlib
 numpy
 scipy
 seaborn 
-geopandas
 ipywidgets 
+hydrofunctions
